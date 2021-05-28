@@ -19,10 +19,8 @@ Please visit our completed webpage at:  https://infinite-ocean-95793.herokuapp.c
 
 ## Description
 
-Deep Thoughts is a full-stack MERN app. <br/>
-A social media app where users can post their thoughts, reply to other users' posts, and add them to their friend list.
+Deep Thoughts is a full-stack MERN social media app where users can post their thoughts, reply to other users' posts, and add them to their friend list.
 
-This 
 
 ## Installation
 
