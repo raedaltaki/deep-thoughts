@@ -31,7 +31,7 @@ If you want to use it to make your own project:
 ```
 // Clone the repository to your local machine using:
 
-git clone git@github.com:DJ-KARMA/currenseed.git
+git clone git@github.com:raedaltaki/deep-thoughts.git
 
 // Install all the dependencies by typing code:
 npm i
